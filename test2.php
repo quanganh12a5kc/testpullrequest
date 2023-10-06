@@ -6,3 +6,5 @@ test 4-1
 test 4-2
 test 5-1
 test 5-2
+test 6-1
+test 7
